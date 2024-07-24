@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/iconss">
+        <file>folder.png</file>
+        <file>search.png</file>
+        <file>meldung.jpg</file>
+        <file>configuration.jpg</file>
+    </qresource>
+</RCC>
